@@ -1,0 +1,67 @@
+body{
+    font-family:Segoe Print;
+    background-image: url(fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 950px;
+    color: rgb(210, 222, 233);
+
+}
+
+#header{
+    background-color: black;;
+    border-radius:5px;
+    border: solid rgb(100, 28, 182);
+    margin:-6px;
+    position: sticky; 
+    top:0;
+    width: 100%;
+    
+}
+
+#GJ{
+    margin:10px 0px 0px 0px
+}
+
+#MENU{
+    font-size: 30px;
+    margin-top:3px ;
+    
+
+}
+
+#menu{
+    font-style: oblique;
+    background-color: rgba(14, 46, 73, 0.11);
+    margin: 50px ;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(232, 241, 241);
+    
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    
+}
+
+h3{
+    font-size: 30px;
+}
+
+p{
+    color: rgb(173, 172, 172);
+    font-size: 25px;
+}
+
+#Pcolor{
+    color: rgb(126, 125, 125);
+}
