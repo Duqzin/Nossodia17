@@ -1,0 +1,37 @@
+body{
+    background-image: url(fundo1.gif);
+    background-size: 1300px;
+    background-position: center;
+    background-position-x: -15;
+    color: whitesmoke;
+    font-family: segoe print;
+}
+
+#voltar{
+    font-size: 30px;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+}
+
+span{
+    color: rgb(79, 192, 230);
+}
+
+
+
+p{
+    font-size: 25px;
+    border: solid rgba(255, 255, 255, 0.103);
+    border-radius: 20px;
+    border-style: dashed;
+    
+}

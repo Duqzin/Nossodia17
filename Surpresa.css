@@ -1,0 +1,20 @@
+body{background-color: rgb(0, 0, 0);
+    font-family: segoe print
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+#simbolo{
+    font-size: 50px;
+    text-align: center;
+    color: aliceblue;
+}
