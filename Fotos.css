@@ -128,6 +128,7 @@ img:hover {
     opacity: 100%;
     background-color: whitesmoke;
     transition: 0,5s;
+    cursor: pointer;
 }
 
 
@@ -156,6 +157,7 @@ img:hover {
     opacity: 100%;
     background-color: whitesmoke;
     transition: 0,5s;
+    cursor: pointer;
 }
 
 
@@ -185,6 +187,7 @@ img:hover {
     opacity: 100%;
     background-color: whitesmoke;
     transition: 0,5px;
+    cursor: pointer;
 }
 
 
@@ -213,6 +216,7 @@ img:hover {
     opacity: 100%;
     background-color: whitesmoke;
     transition: 0,5S;
+    cursor: pointer;
 }
 
 
