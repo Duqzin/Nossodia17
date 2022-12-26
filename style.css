@@ -11,10 +11,11 @@ body{
     background-color: black;;
     border-radius:5px;
     border: solid rgb(100, 28, 182);
-    margin:-6px;
+    margin:-10px;
     position: sticky; 
     top:0;
-    width: 100%;
+    width: auto;
+    text-align: center;
     
 }
 
