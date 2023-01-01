@@ -1,0 +1,18 @@
+body{
+	background-color: #edadef;
+	font-family: 'East Sea Dokdo', cursive;
+	font-family: 'Lobster', cursive;
+	margin: 50px;
+
+}
+
+h1{
+	text-align: center;
+	text-decoration: underline;
+	
+}
+
+p{
+	font-size: 25px;
+
+}
